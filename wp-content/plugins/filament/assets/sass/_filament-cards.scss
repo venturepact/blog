@@ -1,0 +1,43 @@
+.filament-card {
+  display: block;
+  background: $dark-steel;
+  height: 127px;
+  width: 201px;
+  margin-left: 30px;
+  float: left;
+  padding: 20px;
+  border-radius: 3px;
+  text-decoration: none;
+
+  position: relative;
+  @include box-shadow(0 2px 4px rgba(0,0,0,0.1));
+  @include transition(transform $speed ease-in-out, box-shadow $speed);
+  &:first-child { margin-left: 0; }
+  h3 {
+    margin-top: 0;
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+    line-height: 24px;
+  }
+  .cta {
+    position: absolute;
+    bottom: 16px;
+  }
+  .cta:before {
+    content: "";
+    display: block;
+    background: #fff;
+    width: 33px;
+    height: 3px;
+    margin-bottom: 10px;
+  }
+  .cta.green-bar:before { background-color: $mint; }
+  .cta.pink-bar:before { background-color: $pink; }
+  .cta.blue-bar:before { background-color: $sky-blue; }
+  &:hover, &:active, &:focus {
+    text-decoration: none;
+    @include transform(scale(1.05));
+    @include box-shadow(0 3px 5px rgba(0,0,0,0.24));
+  }
+}

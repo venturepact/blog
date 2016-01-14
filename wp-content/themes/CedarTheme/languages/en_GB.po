@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CedarWP\n"
+"POT-Creation-Date: 2015-03-31 21:01-0000\n"
+"PO-Revision-Date: 2015-03-31 21:01-0000\n"
+"Last-Translator: \n"
+"Language-Team: EckoThemes <support@ecko.me>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_attr_e;"
+"esc_js_e;esc_html__;esc_attr__;esc_js__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Error"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"The page you were looking for cannot be found, it may have been moved or no "
+"longer exists. You can navigate back to the homepage by clicking"
+msgstr ""
+
+#: 404.php:17
+msgid "here"
+msgstr ""
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:30 functions.php:66 layouts/footer_post.php:26
+msgid "Comments"
+msgstr ""
+
+#: comments.php:50
+msgid "There are currently no comments."
+msgstr ""
+
+#: comments.php:62
+msgid "Leave a Reply to"
+msgstr ""
+
+#: comments.php:63
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:64
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:65
+msgid "Add your comment here"
+msgstr ""
+
+#: comments.php:70
+msgid "Name"
+msgstr ""
+
+#: comments.php:70 comments.php:73
+#: inc/tgm/class-tgm-plugin-activation.php:1224
+msgid "Required"
+msgstr ""
+
+#: comments.php:73
+msgid "Email"
+msgstr ""
+
+#: comments.php:76
+msgid "Website URL"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Blog Header Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "View Comments"
+msgstr ""
+
+#: functions.php:143 functions.php:151
+msgid "Theme Post Options"
+msgstr ""
+
+#: functions.php:355
+msgid "Category HEX Color Value"
+msgstr ""
+
+#: functions.php:389
+msgid "Posted"
+msgstr ""
+
+#: functions.php:389
+msgid "on"
+msgstr ""
+
+#: functions.php:394 layouts/authorinfo.php:18
+#: layouts/cover_authortitle.php:16
+msgid "Author"
+msgstr ""
+
+#: no-results.php:12
+msgid "No results found. Please try another search query."
+msgstr ""
+
+#: no-results.php:19
+msgid "No results found."
+msgstr ""
+
+#: searchform.php:10 layouts/search_overlay.php:12
+msgid "Enter Search Query..."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:211
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:212
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:213
+#: inc/tgm/class-tgm-plugin-activation.php:2184
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:214
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:215
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:216
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:564
+#: inc/tgm/class-tgm-plugin-activation.php:2401
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1213
+msgid "Private Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1216
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1221
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1224
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1227
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1229
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1231
+msgid "Need Updating"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1333
+#: inc/tgm/class-tgm-plugin-activation.php:1441
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1355
+#: inc/tgm/class-tgm-plugin-activation.php:1442
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1404
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1420
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1421
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1422
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1423
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1443
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1552
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1660
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1795
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2167
+msgid "Install package not available."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2168
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2169
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2170
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2171
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2172
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2183
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2297
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+#: inc/tgm/class-tgm-plugin-activation.php:2307
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+#: inc/tgm/class-tgm-plugin-activation.php:2307
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2299
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2300
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2304
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2305
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2306
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2307
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2308
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2309
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: layouts/copyright.php:10
+msgid "Copyright"
+msgstr ""
+
+#: layouts/copyright.php:10
+msgid "All rights reserved"
+msgstr ""
+
+#: layouts/copyright.php:11
+msgid "Proudly published with"
+msgstr ""
+
+#: layouts/footer_post.php:23
+msgid "Posted on"
+msgstr ""
+
+#: layouts/footer_post.php:27 layouts/postbottom.php:26
+msgid "Share"
+msgstr ""
+
+#: layouts/footer_post.php:38
+msgid "Previous Post"
+msgstr ""
+
+#: layouts/footer_post.php:51
+msgid "Next Post"
+msgstr ""
+
+#: layouts/pagination.php:12
+msgid "Newer Posts"
+msgstr ""
+
+#: layouts/pagination.php:14
+msgid "Older Posts"
+msgstr ""
+
+#: layouts/postbottom.php:24
+msgid "Permalink"
+msgstr ""
+
+#: layouts/posttitle.php:45 layouts/posttitle.php:71 postformat/image.php:20
+#: postformat/standard.php:31 postformat/video.php:20
+msgid "Min Read"
+msgstr ""

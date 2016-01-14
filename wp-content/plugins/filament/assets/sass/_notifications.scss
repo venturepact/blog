@@ -1,0 +1,35 @@
+#filament {
+  .notification {
+    -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    text-align: left;
+    background: rgba(0,0,0,0.1);
+    color: #fff;
+    padding: 4px 14px;
+    border-radius: 2px;
+    height: 42px;
+    line-height: 34px;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+
+    margin-bottom: 15px;
+    a {
+      color: #fff;
+    }
+    .btn-link {
+      float: right;
+      font-size: 12px;
+      margin-right: -10px;
+    }
+  }
+  .notification-green {
+    background-color: $mint2;
+  }
+  #return-to-filament {
+    display: inline-block;
+    background: rgba(0,0,0,0.1);
+    text-decoration: none;
+  }
+}
